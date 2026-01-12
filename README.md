@@ -1,5 +1,4 @@
 # IntelligentAIPersonalTutorForAdaptiveLearningAndAssessment
-# AI-Based Adaptive Personal Tutor System
 
 This project is an AI-powered personal tutor that helps students manage their studies by providing
 personalized learning plans, quizzes, and feedback based on their performance.
